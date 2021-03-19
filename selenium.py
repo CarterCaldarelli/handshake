@@ -7,8 +7,8 @@ import shutil
 
 #Declare variables needed to access website, define dictionary for iterating through web pages.
 school_url = 'https://nl.joinhandshake.com'
-email = 'ccaldarelli@nl.edu'
-password = 'cesareIV4'
+email = 'myemail@email.com'
+password = 'mypassword'
 insights_url = 'https://app.joinhandshake.com/analytics/explore_embed?insights_page='
 dim_dict = {'hs_applications':'ZXhwbG9yZS9nZW5lcmF0ZWRfaGFuZHNoYWtlX3Byb2R1Y3Rpb24vYXBwbGljYXRpb25zP3FpZD1MNXZJeDlsSGZvQXFPb2xPZHdtbjdUJmVtYmVkX2RvbWFpbj1odHRwczolMkYlMkZhcHAuam9pbmhhbmRzaGFrZS5jb20=',
             'hs_appointments':'ZXhwbG9yZS9nZW5lcmF0ZWRfaGFuZHNoYWtlX3Byb2R1Y3Rpb24vYXBwb2ludG1lbnRzP3FpZD1heGM4UG9jb1MyMHdkbG1ZUldwRUMwJmVtYmVkX2RvbWFpbj1odHRwczolMkYlMkZhcHAuam9pbmhhbmRzaGFrZS5jb20mdG9nZ2xlPWZpbA==',
